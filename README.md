@@ -1,4 +1,4 @@
-# enibastuce
+# [enibastuce](https://mathieu0c.github.io/enibastuce/)
 
 How did I setup this?
 
